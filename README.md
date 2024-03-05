@@ -1,2 +1,2 @@
 # CollegeSnapshot
-Embark on a digital journey with CollegeSnapshot, a dynamic one-page landing platform offering a glimpse into your college campus. Explore vibrant visuals, concise content, and available courses. Experience the vibrant campus life from your screen.
+CollegeSnapshot is a dynamic one-page landing platform crafted to provide a glimpse into your college campus. Through vibrant visuals and concise content, students can virtually tour the college premises. Featuring an overview of available courses, CollegeSnapshot offers a comprehensive look into the educational offerings of the institution.Embark on a digital journey and explore the vibrant campus life from the comfort of your screen.
